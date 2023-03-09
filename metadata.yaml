@@ -1,0 +1,42 @@
+_repo: The-psychology-of-the-poet-Shelley_70147
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Barnard, Guy Christian
+    aliases:
+    - Barnard, G. C. (Guy Christian)
+    - Barnefield, George
+    birthdate: 1896
+    deathdate: 1976
+    gutenberg_agent_id: '55626'
+    url: http://www.gutenberg.org/2009/agents/55626
+  - agent_name: Carpenter, Edward
+    birthdate: 1844
+    deathdate: 1929
+    gutenberg_agent_id: '657'
+    url: http://www.gutenberg.org/2009/agents/657
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Carpenter
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70147'
+  lccn: '25007026'
+language: en
+pgterms:marc904: https://archive.org/details/in.ernet.dli.2015.86586/page/n13/mode/2up
+pgterms:marc905: 20221225063754carpenter
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bGeorge Allen & Unwin Ltd., $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822 -- Psychology'
+- !lcsh 'Poetry -- Authorship -- Psychological aspects'
+- !lcsh 'Poets, English -- 19th century -- Psychology'
+- !lcc 'PR'
+- GITenberg
+title: The psychology of the poet Shelley
+url: http://www.gutenberg.org/ebooks/70147
